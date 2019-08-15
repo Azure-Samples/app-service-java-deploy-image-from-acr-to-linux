@@ -4,12 +4,12 @@ languages:
 - java
 products:
 - azure
-services: Appservice
-platforms: java
-author: yaohaizh
+extensions:
+- services: Appservice
+- platforms: java
 ---
 
-## Getting Started with Appservice - Manage Linux Web App With Container Registry - in Java ##
+# Getting Started with Appservice - Manage Linux Web App With Container Registry - in Java #
 
 
   Azure App Service sample for deploying from an Azure Container Registry.
