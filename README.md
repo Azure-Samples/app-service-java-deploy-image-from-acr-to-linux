@@ -4,9 +4,8 @@ languages:
 - java
 products:
 - azure
-extensions:
-- services: Appservice
-- platforms: java
+description: "Azure App Service sample for deploying from an Azure Container Registry."
+urlFragment: app-service-java-deploy-image-from-acr-to-linux
 ---
 
 # Getting Started with Appservice - Manage Linux Web App With Container Registry - in Java #
